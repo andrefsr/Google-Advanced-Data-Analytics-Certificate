@@ -1,0 +1,11 @@
+1. There was 700 missing values on label column. There wasn't any pattern in the missing data.
+
+2. The outliers values can corrupt the mean value, different of the median, that choose the median value of the sample.
+
+3. For what reason there is some atypical values on the driven_km_drives column
+
+4. 65% are iPhone users and 35% use Android.
+
+5. Users who churned Waze app use more the application. i.e. they have more km per day and drives per day.
+
+6. No, it's exactly the same.
